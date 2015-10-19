@@ -1,7 +1,7 @@
 # Bass Object
 <p>
 
- &nbsb;&nbsb;&nbsb;&nbsb;&nbsb; Bass Object is a concept that we developed to bring awareness to how cool and beneficial code and tech can be to the youth and our communities as a whole. Bass Object is a play on the computer programming term "base object", which refers to a core group of computer code in which other code can reference or inherit from. We see each and everyone of us as a base object with the power to positively influence and inspire others, therefore our apparel reflects this concept with thought provoking code designed to spark both positive conversation and an interest in programming. 
+Bass Object is a concept that we developed to bring awareness to how cool and beneficial code and tech can be to the youth and our communities as a whole. Bass Object is a play on the computer programming term "base object", which refers to a core group of computer code in which other code can reference or inherit from. We see each and everyone of us as a base object with the power to positively influence and inspire others, therefore our apparel reflects this concept with thought provoking code designed to spark both positive conversation and an interest in programming. 
      
      </p>
      <p>
