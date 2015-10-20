@@ -23,8 +23,11 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Web", "..\Web\", "{7D3E3836
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "52115"
+		SlnRelativePath = "..\Web\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharp", "TShirt\FSharp.fsproj", "{0532EFDE-2DED-4E3C-BB74-289240902786}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -40,6 +43,10 @@ Global
 		{7D3E3836-6805-4197-88A8-A64517508842}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D3E3836-6805-4197-88A8-A64517508842}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{7D3E3836-6805-4197-88A8-A64517508842}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{0532EFDE-2DED-4E3C-BB74-289240902786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0532EFDE-2DED-4E3C-BB74-289240902786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0532EFDE-2DED-4E3C-BB74-289240902786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0532EFDE-2DED-4E3C-BB74-289240902786}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
